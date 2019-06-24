@@ -1,0 +1,15 @@
+C:\Users\Shipa\source\repos\NpHw-2.Client\NpHw-2.Client\bin\Debug\NpHw-2.Client.exe.config
+C:\Users\Shipa\source\repos\NpHw-2.Client\NpHw-2.Client\bin\Debug\NpHw-2.Client.exe
+C:\Users\Shipa\source\repos\NpHw-2.Client\NpHw-2.Client\bin\Debug\NpHw-2.Client.pdb
+C:\Users\Shipa\source\repos\NpHw-2.Client\NpHw-2.Client\obj\Debug\NpHw-2.Client.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\NpHw-2.Client\NpHw-2.Client\obj\Debug\MainWindow.g.cs
+C:\Users\Shipa\source\repos\NpHw-2.Client\NpHw-2.Client\obj\Debug\App.g.cs
+C:\Users\Shipa\source\repos\NpHw-2.Client\NpHw-2.Client\obj\Debug\NpHw-2.Client_MarkupCompile.cache
+C:\Users\Shipa\source\repos\NpHw-2.Client\NpHw-2.Client\obj\Debug\NpHw-2.Client_MarkupCompile.lref
+C:\Users\Shipa\source\repos\NpHw-2.Client\NpHw-2.Client\obj\Debug\MainWindow.baml
+C:\Users\Shipa\source\repos\NpHw-2.Client\NpHw-2.Client\obj\Debug\NpHw-2.Client.g.resources
+C:\Users\Shipa\source\repos\NpHw-2.Client\NpHw-2.Client\obj\Debug\NpHw_2.Client.Properties.Resources.resources
+C:\Users\Shipa\source\repos\NpHw-2.Client\NpHw-2.Client\obj\Debug\NpHw-2.Client.csproj.GenerateResource.cache
+C:\Users\Shipa\source\repos\NpHw-2.Client\NpHw-2.Client\obj\Debug\NpHw-2.Client.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\NpHw-2.Client\NpHw-2.Client\obj\Debug\NpHw-2.Client.exe
+C:\Users\Shipa\source\repos\NpHw-2.Client\NpHw-2.Client\obj\Debug\NpHw-2.Client.pdb

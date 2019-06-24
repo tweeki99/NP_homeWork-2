@@ -1,0 +1,15 @@
+C:\Users\Shipa\source\repos\NpHw-2\NpHw-2\bin\Debug\NpHw-2.exe.config
+C:\Users\Shipa\source\repos\NpHw-2\NpHw-2\bin\Debug\NpHw-2.exe
+C:\Users\Shipa\source\repos\NpHw-2\NpHw-2\bin\Debug\NpHw-2.pdb
+C:\Users\Shipa\source\repos\NpHw-2\NpHw-2\bin\Debug\EntityFramework.dll
+C:\Users\Shipa\source\repos\NpHw-2\NpHw-2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shipa\source\repos\NpHw-2\NpHw-2\bin\Debug\EntityFramework.xml
+C:\Users\Shipa\source\repos\NpHw-2\NpHw-2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shipa\source\repos\NpHw-2\NpHw-2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Shipa\source\repos\NpHw-2\NpHw-2\obj\Debug\NpHw-2.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\NpHw-2\NpHw-2\obj\Debug\NpHw-2.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\NpHw-2\NpHw-2\obj\Debug\NpHw-2.csproj.CopyComplete
+C:\Users\Shipa\source\repos\NpHw-2\NpHw-2\obj\Debug\NpHw-2.exe
+C:\Users\Shipa\source\repos\NpHw-2\NpHw-2\obj\Debug\NpHw-2.pdb
+C:\Users\Shipa\source\repos\NpHw-2\NpHw-2\bin\Debug\StreetContext.mdf
+C:\Users\Shipa\source\repos\NpHw-2\NpHw-2\bin\Debug\StreetContext_log.ldf
